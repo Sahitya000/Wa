@@ -1,6 +1,6 @@
 {
-  "show_message": true,
-    "show_content": true,
+  "show_message": false,
+    "show_content": false,
     "content_url": "https://sahitya000.github.io/Instamax14.10/index.html",
   "title": " ",
   "positive_btn": "Update",
