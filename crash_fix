@@ -1,0 +1,13 @@
+{
+
+  "requiredLink": "com.skmods",
+  "_comment1": "idValid: layout, drawable, string, class, class_string",
+  "idType": "",
+
+  "_comment2": "idName me full class(com.tt.i) name which contain strings for search",
+  "idName": "",
+  
+
+  "_comment3": "search me method and name it can be null",
+  "search": "xxx"
+}
